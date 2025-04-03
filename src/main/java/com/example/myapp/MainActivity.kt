@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-// ✅ Navigation Setup (FIXED)
+//  Navigation Setup (FIXED)
 @Composable
 fun AppNavigator() {
     val navController = rememberNavController()
